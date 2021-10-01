@@ -1,0 +1,16 @@
+C:\Users\dirkho\source\repos\TestDirk\bin\Debug\net5.0\TestDirk.exe
+C:\Users\dirkho\source\repos\TestDirk\bin\Debug\net5.0\TestDirk.deps.json
+C:\Users\dirkho\source\repos\TestDirk\bin\Debug\net5.0\TestDirk.runtimeconfig.json
+C:\Users\dirkho\source\repos\TestDirk\bin\Debug\net5.0\TestDirk.runtimeconfig.dev.json
+C:\Users\dirkho\source\repos\TestDirk\bin\Debug\net5.0\TestDirk.dll
+C:\Users\dirkho\source\repos\TestDirk\bin\Debug\net5.0\ref\TestDirk.dll
+C:\Users\dirkho\source\repos\TestDirk\bin\Debug\net5.0\TestDirk.pdb
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.csproj.AssemblyReference.cache
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.AssemblyInfoInputs.cache
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.AssemblyInfo.cs
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.csproj.CoreCompileInputs.cache
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.dll
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\ref\TestDirk.dll
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.pdb
+C:\Users\dirkho\source\repos\TestDirk\obj\Debug\net5.0\TestDirk.genruntimeconfig.cache
